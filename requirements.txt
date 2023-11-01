@@ -1,3 +1,4 @@
 Flask==0.10.1
 gunicorn==19.6.0
 futures==3.0.5
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
