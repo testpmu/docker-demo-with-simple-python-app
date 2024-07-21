@@ -1,4 +1,4 @@
-FROM python:3.12.0b1
+FROM python:3.13.0b3
 
 # Creating Application Source Code Directory
 RUN mkdir -p /usr/src/app
